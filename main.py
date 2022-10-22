@@ -704,7 +704,7 @@ complexity = {
     "insertion_sort": "O(n^2)",
     "merge_sort": "O(n log n)",
     "quick_sort": "O(n log n)",
-    "count_sort": "O(n+k) ∈ k is range of values",
+    "count_sort": "O(n+k), where k is range of values",
     "sorted": "O(n log n) ",
 }
 init_window()
